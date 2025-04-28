@@ -5,5 +5,7 @@ cd PMO-Office
 git add dummy.xlsx
 git commit -m "Added initial Inventory Excel file"
 git push
+git status
+
 
 
